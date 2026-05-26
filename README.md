@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @Anikit Mhrzn
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (PLZ dont)
+# Hi, I'm Anikit Mhrzn
 
+I am a developer focused on robotics engineering and automation systems, bridging hardware and software solutions with Python.
 
-<!---
-SpiritKingXD/SpiritKingXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Core Focus
+* **Robotics & Automation:** Building embedded solutions and physical computing systems.
+* **Software Development:** Creating desktop applications, hardware tools, and responsive interfaces.
+* **Data Integration:** Linking sensor hardware (like RFID) directly with software and data platforms.
+
+## Skills
+* **Languages:** Python, C++, C#
+* **Web & UI Frameworks:** React JS
+* **Hardware Platforms:** Arduino, ESP32, Embedded systems
