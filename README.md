@@ -11,3 +11,10 @@ I am a developer focused on robotics engineering and automation systems, bridgin
 * **Languages:** Python, C++, C#
 * **Web & UI Frameworks:** React JS
 * **Hardware Platforms:** Arduino, ESP32, Embedded systems
+
+  ## 🌐 Connect with Me
+
+Feel free to reach out or follow my latest projects!
+
+[![Instagram](https://shields.io)]([https://instagram.com](https://www.instagram.com/mhrzn_anikit/))
+[![Email](https://shields.io)](mailto:anikitmhrzn@gmail.com)
