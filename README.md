@@ -16,5 +16,6 @@ I am a developer focused on robotics engineering and automation systems, bridgin
 
 Feel free to reach out or follow my latest projects!
 
-[![Instagram](https://shields.io)](https://www.instagram.com/mhrzn_anikit/)
-[![Email](https://shields.io)](mailto:anikitmhrzn@gmail.com)
+* 📸 **Instagram:** [@MhrznAnikit]([https://instagram.co](https://www.instagram.com/mhrzn_anikit/))
+* ✉️ **Email:** [your.email@example.com](mailto:anikitmhrzn@gmail.com)
+
