@@ -12,10 +12,3 @@ I am a developer focused on robotics engineering and automation systems, bridgin
 * **Web & UI Frameworks:** React JS
 * **Hardware Platforms:** Arduino, ESP32, Embedded systems
 
-## 🌐 Connect with Me
-
-Feel free to reach out or follow my latest projects!
-
-* 📸 **Instagram:** [@MhrznAnikit]([https://instagram.co](https://www.instagram.com/mhrzn_anikit/))
-* ✉️ **Email:** [your.email@example.com](mailto:anikitmhrzn@gmail.com)
-
